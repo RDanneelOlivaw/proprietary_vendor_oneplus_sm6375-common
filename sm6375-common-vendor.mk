@@ -1191,6 +1191,7 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleHEXAGON \
     ImsRcsService \
     QCC \
+    QtiTelephony \
     QtiTelephonyService \
     WfdService \
     dpmserviceapp \
