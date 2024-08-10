@@ -501,12 +501,14 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_djnt_nt36523a_21653_fhdp_mipi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_djnt_nt36523a_21653_fhdp_mipi_panel.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_dsjm_ili7807s_21707_fhd_plus_mipi_panel_with_DSC.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_dsjm_ili7807s_21707_fhd_plus_mipi_panel_with_DSC.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_ili7807s_tm_fhd_plus_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_ili7807s_tm_fhd_plus_video_mode_dsi_panel.xml \
+    vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_ili7807s_video_mode_dsi_fhd_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_ili7807s_video_mode_dsi_fhd_panel.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_jdi_td4377_21707_fhd_plus_mipi_panel_with_DSC.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_jdi_td4377_21707_fhd_plus_mipi_panel_with_DSC.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_nt35597_cmd_mode_dsi_truly_panel_with_DSC.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt35597_cmd_mode_dsi_truly_panel_with_DSC.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_nt35597_video_mode_dsi_truly_panel_with_DSC.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt35597_video_mode_dsi_truly_panel_with_DSC.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_nt35695b_truly_fhd_command_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt35695b_truly_fhd_command_mode_dsi_panel.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_nt36672c_dsjm_fhd_plus_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt36672c_dsjm_fhd_plus_video_mode_dsi_panel.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_nt36672c_tm_fhd_plus_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt36672c_tm_fhd_plus_video_mode_dsi_panel.xml \
+    vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_nt36672c_video_mode_dsi_fhd_1080_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt36672c_video_mode_dsi_fhd_1080_panel.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_nt36672c_video_mode_dsi_fhd_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt36672c_video_mode_dsi_fhd_panel.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_nt36672e_60_Hz_fhd_plus_video_mode_panel_without_DSC.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt36672e_60_Hz_fhd_plus_video_mode_panel_without_DSC.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_nt36672e_fhd_plus_120Hz_Video_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt36672e_fhd_plus_120Hz_Video_panel.xml \
@@ -525,6 +527,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_td4330_v2_cmd_mode_dsi_truly_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_td4330_v2_cmd_mode_dsi_truly_panel.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_td4330_v2_video_mode_dsi_truly_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_td4330_v2_video_mode_dsi_truly_panel.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_tianma_ili7838a_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_tianma_ili7838a_dsc_cmd_mode_panel.xml \
+    vendor/oneplus/sm6375-common/proprietary/vendor/etc/qdcm_calib_data_visionox_ili7838a_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_visionox_ili7838a_dsc_cmd_mode_panel.xml \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/sap.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sap.conf \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/sec_config:$(TARGET_COPY_OUT_VENDOR)/etc/sec_config \
     vendor/oneplus/sm6375-common/proprietary/vendor/etc/seccomp_policy/atfwd@2.0.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/atfwd@2.0.policy \
