@@ -13,6 +13,11 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm6375-common/proprietary/odm/etc/init/android.hardware.drm@1.3-service.widevine.rc:$(TARGET_COPY_OUT_ODM)/etc/init/android.hardware.drm@1.3-service.widevine.rc \
     vendor/oneplus/sm6375-common/proprietary/odm/etc/init/vendor-oplus-hardware-performance-V1-service.rc:$(TARGET_COPY_OUT_ODM)/etc/init/vendor-oplus-hardware-performance-V1-service.rc \
     vendor/oneplus/sm6375-common/proprietary/odm/etc/izat.conf:$(TARGET_COPY_OUT_ODM)/etc/izat.conf \
+    vendor/oneplus/sm6375-common/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
+    vendor/oneplus/sm6375-common/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
+    vendor/oneplus/sm6375-common/proprietary/vendor/libnfc-nxp_RF.conf:$(TARGET_COPY_OUT_VENDOR)/libnfc-nxp_RF.conf \
+    vendor/oneplus/sm6375-common/proprietary/odm/etc/nfc/nfc_conf_ref:$(TARGET_COPY_OUT_ODM)/etc/nfc/nfc_conf_ref \
+    vendor/oneplus/sm6375-common/proprietary/odm/etc/nfc/nfc_fw_ref:$(TARGET_COPY_OUT_ODM)/etc/nfc/nfc_fw_ref \
     vendor/oneplus/sm6375-common/proprietary/odm/etc/sap.conf:$(TARGET_COPY_OUT_ODM)/etc/sap.conf \
     vendor/oneplus/sm6375-common/proprietary/odm/firmware/tp/20121/FW_NF_ILI7807S_TIANMA.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/20121/FW_NF_ILI7807S_TIANMA.img \
     vendor/oneplus/sm6375-common/proprietary/odm/firmware/tp/20121/FW_NF_ILI7807S_TIANMA_FAE.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/20121/FW_NF_ILI7807S_TIANMA_FAE.img \
@@ -146,6 +151,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm6375-common/proprietary/odm/firmware/tp/22821/FW_NF_NT36672C_TIANMA_TEST.bin:$(TARGET_COPY_OUT_ODM)/firmware/tp/22821/FW_NF_NT36672C_TIANMA_TEST.bin \
     vendor/oneplus/sm6375-common/proprietary/odm/firmware/tp/22821/LIMIT_NF_NT36672C_TIANMA.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/22821/LIMIT_NF_NT36672C_TIANMA.img \
     vendor/oneplus/sm6375-common/proprietary/odm/lib/libaudioEngineerTest.so:$(TARGET_COPY_OUT_ODM)/lib/libaudioEngineerTest.so \
+    vendor/oneplus/sm6375-common/proprietary/vendor/lib/libpn557_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn557_fw.so \
     vendor/oneplus/sm6375-common/proprietary/odm/lib/rfsa/adsp/capi_v2_aptX_CLHDAD_Encoder.so:$(TARGET_COPY_OUT_ODM)/lib/rfsa/adsp/capi_v2_aptX_CLHDAD_Encoder.so \
     vendor/oneplus/sm6375-common/proprietary/odm/lib/rfsa/adsp/libVDHexagonBlurless_v2_skel.so:$(TARGET_COPY_OUT_ODM)/lib/rfsa/adsp/libVDHexagonBlurless_v2_skel.so \
     vendor/oneplus/sm6375-common/proprietary/odm/lib/rfsa/adsp/libarcsoft_dualcam_refocus_skel.so:$(TARGET_COPY_OUT_ODM)/lib/rfsa/adsp/libarcsoft_dualcam_refocus_skel.so \
