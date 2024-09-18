@@ -1235,11 +1235,11 @@ PRODUCT_PACKAGES += \
     dpmapi \
     qcrilhook \
     vendor.qti.ims.factory-V2.0-java \
-    android.hardware.gnss@2.1-service-qti \
-    c2_manifest_vendor \
-    vendor.qti.gnss@4.0-service \
-    manifest_android.hardware.drm@1.3-service.widevine \
-    manifest_performance_aidl
+    android.hardware.gnss@2.1-service-qti.xml \
+    c2_manifest_vendor.xml \
+    vendor.qti.gnss@4.0-service.xml \
+    manifest_android.hardware.drm@1.3-service.widevine.xml \
+    manifest_performance_aidl.xml
 
 PRODUCT_PACKAGES += \
     libimscamera_jni_libimscamera_jni_symlink64 \
