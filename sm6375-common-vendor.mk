@@ -510,22 +510,15 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.bluetooth_audio@2.1-impl \
     vendor.qti.hardware.capabilityconfigstore@1.0-impl \
     vulkan.adreno \
-    libAlacSwDec \
-    libApeSwDec \
     libC2D2 \
     libCB \
-    libFlacSwDec \
-    libMpeghSwEnc \
     libOmxAacDec \
     libOmxAlacDec \
-    libOmxAlacDecSw \
     libOmxAmrDec \
     libOmxAmrwbplusDec \
     libOmxApeDec \
-    libOmxApeDecSw \
     libOmxEvrcDec \
     libOmxG711Dec \
-    libOmxMpeghEncSw \
     libOmxQcelp13Dec \
     libOmxWmaDec \
     libOpenCL \
@@ -567,7 +560,6 @@ PRODUCT_PACKAGES += \
     sound_trigger.primary.holi \
     libFileMux_proprietary \
     libOmxDsdDec \
-    libOmxMpeghDecSw \
     libOmxVideoDSMode \
     liba2dpoffload \
     libacdb-fts \
